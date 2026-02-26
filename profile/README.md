@@ -125,4 +125,10 @@ Dust is designed for you.
 
 ---
 
-© 2026 Dust LLC
+# License
+
+Dust is licensed under the Dust Open Source License.
+
+See LICENSE file for details.
+
+---
