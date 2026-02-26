@@ -1,0 +1,9 @@
+# CODEOWNERS sample
+# Place this file at: .github/CODEOWNERS (or CODEOWNERS) in each repo.
+#
+# Examples:
+# *                 @dustlang/maintainers
+# /crates/dvm/      @dustlang/runtime
+# /spec/           @dustlang/spec
+
+* @dustlang/maintainers

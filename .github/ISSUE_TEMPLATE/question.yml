@@ -1,0 +1,11 @@
+name: Question
+description: Ask a question (prefer Discussions if enabled)
+title: "[QUESTION] "
+labels: [question]
+body:
+  - type: textarea
+    id: question
+    attributes:
+      label: Question
+    validations:
+      required: true

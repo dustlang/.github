@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Security vulnerability report
+    url: https://github.com/dustlang/.github/security/advisories/new
+    about: Please report security vulnerabilities privately via GitHub Security Advisories.
+  - name: Questions / Discussions
+    url: https://github.com/dustlang
+    about: If Discussions are enabled, use them for Q&A; otherwise open an issue with context.

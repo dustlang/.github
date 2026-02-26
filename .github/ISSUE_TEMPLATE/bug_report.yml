@@ -1,0 +1,39 @@
+name: Bug Report
+description: Report a defect in Dust components
+title: "[BUG] "
+labels: [bug]
+body:
+  - type: input
+    id: repo
+    attributes:
+      label: Repository
+      description: Which repository is affected?
+      placeholder: dustlang/dustrun
+    validations:
+      required: true
+  - type: input
+    id: sha
+    attributes:
+      label: Commit SHA
+      description: The exact commit where the issue occurs
+    validations:
+      required: true
+  - type: textarea
+    id: repro
+    attributes:
+      label: Reproduction steps
+      description: Provide a minimal reproduction (steps, fixture, commands, logs)
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected behavior
+    validations:
+      required: true
+  - type: textarea
+    id: actual
+    attributes:
+      label: Actual behavior
+    validations:
+      required: true
