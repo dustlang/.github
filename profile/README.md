@@ -72,7 +72,7 @@ Canonical language specification (normative definition).
 ### dustrun
 Dust Virtual Machine (DVM), regime engine, and conformance harness.
 
-### dustc
+### dust
 Compiler toolchain targeting native binaries and DVM bytecode.
 
 Additional repositories may include libraries, tooling, verification engines, and research extensions.
