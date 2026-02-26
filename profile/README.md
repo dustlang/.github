@@ -125,7 +125,7 @@ Dust is designed for you.
 
 ---
 
-# License
+## License
 
 Dust is licensed under the Dust Open Source License.
 
